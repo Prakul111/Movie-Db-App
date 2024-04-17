@@ -54,6 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to The Movie Database (TMDB) for providing an extensive database of movies and TV shows and their API for developers to build applications like this.
 
----
-
-Feel free to customize this README according to your needs or preferences!
